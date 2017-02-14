@@ -1,0 +1,12 @@
+1. Belajar bagaimana cara melakukan cloning repository di GitHub
+2. Belajar bagaimana cara melakukan pull and push dari GitHub ke server Badak
+3. Belajar bagaimana cara berpindak directory di dalam server Badak
+4. Belajar bagaimana cara membuat directory baru di dalam server Badak
+5. Belajar bagaimana melihat semua directory yang ada dalam current directory
+6. Belajar bagaimana cara membaut file baru dari server Badak
+7. Belajar bagaimana cara meremove file dari dalam server Badak
+8. Belajar bagaimana cara menulis di dalam file melalui vi dan nano
+9. Belajar bagaimana cara merecord konten di current directory ke file melalui command
+10. Belajar bagaimana memindah file menggunakan command mv
+11. Belajar memverify current directory menggunakan command pwd
+12. Belajar merecord current directory menggunakan command append ">>"
