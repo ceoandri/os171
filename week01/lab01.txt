@@ -20,3 +20,4 @@ drwxr-xr-x  2 andri.nur51 StafCS 4096 Feb 14 17:13 week09
 drwxr-xr-x  2 andri.nur51 StafCS 4096 Feb 14 17:13 week10
 drwxr-xr-x  2 andri.nur51 StafCS 4096 Feb 14 17:15 xtra
 /home/fasilkom/mahasiswa/a/andri.nur51/os171/week01
+Today is 15 Feb 2017 at 06:32:08
