@@ -10,3 +10,4 @@
 10. Belajar bagaimana memindah file menggunakan command mv
 11. Belajar memverify current directory menggunakan command pwd
 12. Belajar merecord current directory menggunakan command append ">>"
+13. BElajar membuat scripting dari dalam server badak dan menjalankannya
