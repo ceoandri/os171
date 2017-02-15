@@ -7,3 +7,5 @@ w01-170214-30-PS-Doing lab session
 w01-170214-20-PS-Doing lab session
 w01-170215-30-PS-Doing lab session
 w01-170215-10-PS-Doing lab session
+w01-170215-20-LR-About: Read slide Scripting 1, From: Scele Arsip RMS
+w01-170215-30-PS-Doing scripting from slide Scripting 1
