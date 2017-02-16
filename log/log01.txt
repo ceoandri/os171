@@ -1,7 +1,7 @@
 w01-170214-30-LR-About: Introduction about HKI, From: Lecturer
 w01-170214-20-LR-About: Introduction about HKI, From: Lecturer
 w01-170214-30-LR-About: Scripting, From: Lecturer
-w01-170214-20-LR-Watching Scripting demo from lecturer
+w01-170214-20-LR-Watching scripting demo from lecturer
 w01-170214-30-PS-Doing lab session
 w01-170214-30-PS-Doing lab session
 w01-170214-20-PS-Doing lab session
@@ -9,3 +9,7 @@ w01-170215-30-PS-Doing lab session
 w01-170215-10-PS-Doing lab session
 w01-170215-20-LR-About: Read slide Scripting 1, From: Scele Arsip RMS
 w01-170215-30-PS-Doing scripting from slide Scripting 1
+w01-170216-30-LR-Watching scripting demo from lecturer
+w01-170216-30-LR-Watching scripting demo from lecturer
+w01-170216-30-LR-Watching scripting demo from lecturer
+w01-170216-10-LR-Watching scripting demo from lecturer
